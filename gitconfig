@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = legna.ch18
+	name = legnachavez
